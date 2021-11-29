@@ -10,6 +10,17 @@
         "location": "https://hub.docker.com/r/sameersbn/gitlab",
         "type": "app"
     },
+        {
+        "description": "Grafana is ...",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/app_redmine.png",
+        "displayName": "Grafana",
+        "name": "grafana",
+        "version": "8.2.5",
+        "location": "https://hub.docker.com/r/grafana/grafana",
+        "type": "app"
+    },
     {
         "description": "Redmine is a free and open source web-based project management system.",
         "repository": "dockerhub",
@@ -584,6 +595,7 @@
         "location": "http://download.qnap.com/QPKG/container/debian-buster_10_20191009_arm64.tar.gz",
         "type": "lxc"
     },
+
     {
         "description": "The IRC client of the future",
         "repository": "dockerhub",
