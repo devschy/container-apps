@@ -16,7 +16,7 @@
         "arch": "amd64",
         "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/app_redmine.png",
         "displayName": "Grafana",
-        "name": "grafana",
+        "name": "grafana/grafana",
         "version": "8.2.5",
         "location": "https://hub.docker.com/r/grafana/grafana",
         "type": "docker"
