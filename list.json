@@ -19,7 +19,7 @@
         "name": "grafana",
         "version": "8.2.5",
         "location": "https://hub.docker.com/r/grafana/grafana",
-        "type": "app"
+        "type": "docker"
     },
     {
         "description": "Redmine is a free and open source web-based project management system.",
